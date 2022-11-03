@@ -1,0 +1,5 @@
+G:\C_Sharp\CS002\bin\Debug\net6.0\publish\CS002.exe
+G:\C_Sharp\CS002\bin\Debug\net6.0\publish\CS002.dll
+G:\C_Sharp\CS002\bin\Debug\net6.0\publish\CS002.deps.json
+G:\C_Sharp\CS002\bin\Debug\net6.0\publish\CS002.runtimeconfig.json
+G:\C_Sharp\CS002\bin\Debug\net6.0\publish\CS002.pdb

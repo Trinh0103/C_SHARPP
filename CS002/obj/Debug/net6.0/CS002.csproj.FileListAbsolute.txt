@@ -1,0 +1,15 @@
+G:\C_Sharp\CS002\bin\Debug\net6.0\CS002.exe
+G:\C_Sharp\CS002\bin\Debug\net6.0\CS002.deps.json
+G:\C_Sharp\CS002\bin\Debug\net6.0\CS002.runtimeconfig.json
+G:\C_Sharp\CS002\bin\Debug\net6.0\CS002.dll
+G:\C_Sharp\CS002\bin\Debug\net6.0\CS002.pdb
+G:\C_Sharp\CS002\obj\Debug\net6.0\CS002.csproj.AssemblyReference.cache
+G:\C_Sharp\CS002\obj\Debug\net6.0\CS002.GeneratedMSBuildEditorConfig.editorconfig
+G:\C_Sharp\CS002\obj\Debug\net6.0\CS002.AssemblyInfoInputs.cache
+G:\C_Sharp\CS002\obj\Debug\net6.0\CS002.AssemblyInfo.cs
+G:\C_Sharp\CS002\obj\Debug\net6.0\CS002.csproj.CoreCompileInputs.cache
+G:\C_Sharp\CS002\obj\Debug\net6.0\CS002.dll
+G:\C_Sharp\CS002\obj\Debug\net6.0\refint\CS002.dll
+G:\C_Sharp\CS002\obj\Debug\net6.0\CS002.pdb
+G:\C_Sharp\CS002\obj\Debug\net6.0\CS002.genruntimeconfig.cache
+G:\C_Sharp\CS002\obj\Debug\net6.0\ref\CS002.dll
