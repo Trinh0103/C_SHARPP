@@ -1,0 +1,15 @@
+G:\C_Sharp\CS009\obj\Debug\net6.0\CS009.csproj.AssemblyReference.cache
+G:\C_Sharp\CS009\obj\Debug\net6.0\CS009.GeneratedMSBuildEditorConfig.editorconfig
+G:\C_Sharp\CS009\obj\Debug\net6.0\CS009.AssemblyInfoInputs.cache
+G:\C_Sharp\CS009\obj\Debug\net6.0\CS009.AssemblyInfo.cs
+G:\C_Sharp\CS009\obj\Debug\net6.0\CS009.csproj.CoreCompileInputs.cache
+G:\C_Sharp\CS009\bin\Debug\net6.0\CS009.exe
+G:\C_Sharp\CS009\bin\Debug\net6.0\CS009.deps.json
+G:\C_Sharp\CS009\bin\Debug\net6.0\CS009.runtimeconfig.json
+G:\C_Sharp\CS009\bin\Debug\net6.0\CS009.dll
+G:\C_Sharp\CS009\bin\Debug\net6.0\CS009.pdb
+G:\C_Sharp\CS009\obj\Debug\net6.0\CS009.dll
+G:\C_Sharp\CS009\obj\Debug\net6.0\refint\CS009.dll
+G:\C_Sharp\CS009\obj\Debug\net6.0\CS009.pdb
+G:\C_Sharp\CS009\obj\Debug\net6.0\CS009.genruntimeconfig.cache
+G:\C_Sharp\CS009\obj\Debug\net6.0\ref\CS009.dll
