@@ -1,0 +1,15 @@
+G:\C_Sharp\baigiang\CS021\bin\Debug\net6.0\CS021.exe
+G:\C_Sharp\baigiang\CS021\bin\Debug\net6.0\CS021.deps.json
+G:\C_Sharp\baigiang\CS021\bin\Debug\net6.0\CS021.runtimeconfig.json
+G:\C_Sharp\baigiang\CS021\bin\Debug\net6.0\CS021.dll
+G:\C_Sharp\baigiang\CS021\bin\Debug\net6.0\CS021.pdb
+G:\C_Sharp\baigiang\CS021\obj\Debug\net6.0\CS021.csproj.AssemblyReference.cache
+G:\C_Sharp\baigiang\CS021\obj\Debug\net6.0\CS021.GeneratedMSBuildEditorConfig.editorconfig
+G:\C_Sharp\baigiang\CS021\obj\Debug\net6.0\CS021.AssemblyInfoInputs.cache
+G:\C_Sharp\baigiang\CS021\obj\Debug\net6.0\CS021.AssemblyInfo.cs
+G:\C_Sharp\baigiang\CS021\obj\Debug\net6.0\CS021.csproj.CoreCompileInputs.cache
+G:\C_Sharp\baigiang\CS021\obj\Debug\net6.0\CS021.dll
+G:\C_Sharp\baigiang\CS021\obj\Debug\net6.0\refint\CS021.dll
+G:\C_Sharp\baigiang\CS021\obj\Debug\net6.0\CS021.pdb
+G:\C_Sharp\baigiang\CS021\obj\Debug\net6.0\CS021.genruntimeconfig.cache
+G:\C_Sharp\baigiang\CS021\obj\Debug\net6.0\ref\CS021.dll
